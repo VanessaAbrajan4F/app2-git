@@ -13,6 +13,7 @@
    
   <author href="https://build.phonegap.com" email="vanessa.abrajan.cbtis16@gmail.com">
      Vanessa Abrajan Morales
+  </author>
   
   <!--Personaliza la aplicacion y plataforma -->
   <preference name="orientacion" value="dafult" />
